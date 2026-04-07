@@ -1,2 +1,3 @@
-# cary-kane
-Next.js website for Cary Kane PLLC — NYC labor &amp; empoyment law firm
+# Cary Kane PLLC Website
+
+Next.js App Router + TypeScript site scaffold for Cary Kane PLLC.
